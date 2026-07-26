@@ -1,12 +1,3 @@
-"""
-SkyTracker v9 — Fonctionnalités avancées
-- Mode flexible amélioré (calendrier des prix)
-- Sélecteur de classe corrigé
-- Multi-destinations
-- Options bagages avec logo
-- Conditions (annulation, remboursement)
-- Temps d'escale affiché
-"""
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
