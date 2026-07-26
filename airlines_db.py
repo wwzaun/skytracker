@@ -1,9 +1,3 @@
-"""
-airlines_db.py — Base complète des compagnies aériennes actives
-~500+ compagnies avec codes IATA, pays et couleurs
-Chargée dynamiquement dans serpapi_client.py
-"""
-
 # Format : (code_IATA, nom, pays, couleur_hex)
 AIRLINES = [
     # ── Europe ────────────────────────────────────────────────────────────────
