@@ -1,6 +1,3 @@
-"""
-amadeus_integration.py — Intégration Amadeus API pour vrais vols
-"""
 import requests
 import json
 from datetime import datetime, date
