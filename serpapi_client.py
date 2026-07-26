@@ -1,6 +1,3 @@
-"""
-serpapi_client.py v2 — Correction parsing dates ISO 8601
-"""
 import requests, re
 from datetime import datetime, timedelta
 from typing import Optional, List
